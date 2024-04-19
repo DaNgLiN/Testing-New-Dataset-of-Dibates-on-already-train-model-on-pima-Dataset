@@ -40,3 +40,9 @@ To run the Jupyter Notebook file included in this repository, follow these steps
 6. Run the cells in the notebook to execute the code and generate results.
 
 Make sure to have the diabetes data CSV file (`diabetes_data.csv`) in the same directory as the Jupyter Notebook file.
+
+## Refrence
+
+[1]: Tasin, I., Nabil, T.U., Islam, S., Khan, R.: Diabetes prediction using machine learning and explainable AI techniques. Healthc. Technol. Lett. 10, 1–10 (2023). https://doi.org/10.1049/htl2.12039 
+
+[2]: T. N. (n.d.). GitHub - tansin-nabil/Diabetes-Prediction-Using-Machine-Learning: Check the full research paper: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/htl2.12039. GitHub. https://github.com/tansin-nabil/Diabetes-Prediction-Using-Machine-Learning 
