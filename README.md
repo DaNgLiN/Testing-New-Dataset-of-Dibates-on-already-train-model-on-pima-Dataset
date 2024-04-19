@@ -15,6 +15,9 @@ The study aims to develop a system for automatically predicting diabetes using m
 ## Github Repo
 [Diabetes Prediction Using Machine Learning GitHub](https://github.com/tansin-nabil/Diabetes-Prediction-Using-Machine-Learning)
 
+## Papar Link
+[Diabetes prediction using machine learning and explainable AItechniques](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/htl2.12039)
+
 ## Description of Paper
 This research introduces an innovative system for predicting diabetes that leverages a variety of machine-learning techniques. It incorporates a novel dataset from Bangladeshi female patients, assessing various algorithms such as decision trees, SVM, Random Forest, Logistic Regression, KNN, and ensemble methods to determine the most effective features for diabetes prediction.
 
